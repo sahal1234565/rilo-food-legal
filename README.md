@@ -1,6 +1,6 @@
-# Rilo Food Legal Pages
+# Tasti Legal Pages
 
-Static GitHub Pages site for Rilo Food public legal and support pages.
+Static GitHub Pages site for Tasti public legal and support pages.
 
 Published URL:
 
